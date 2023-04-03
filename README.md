@@ -3,18 +3,27 @@
 
 <img src="./icons/mikasa.jpg" >
 
-<a href="https://img.shields.io/github/languages/top/Ahmed-Hamdy101/Mikasa-discord"> <img src="https://img.shields.io/github/languages/top/Ahmed-Hamdy101/Mikasa-discord"> </a><a href="https://img.shields.io/github/repo-size/Ahmed-Hamdy101/Mikasa-discord"> <img src="https://img.shields.io/github/repo-size/Ahmed-Hamdy101/Mikasa-discord"> </a><a href="https://img.shields.io/github/stars/Ahmed-Hamdy101/Mikasa-discord?style=social"> <img src="https://img.shields.io/github/stars/Ahmed-Hamdy101/Mikasa-discord?style=social"> </a><a href="https://img.shields.io/github/watchers/Ahmed-Hamdy101/Mikasa-discord?style=social"> <img src="https://img.shields.io/github/watchers/Ahmed-Hamdy101/Mikasa-discord?style=social"> </a><a href="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTorn40535516"> <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTorn40535516"> </a>
+<a href="https://img.shields.io/github/languages/top/Ahmed-Hamdy101/Mikasa-discord"> <img src="https://img.shields.io/github/languages/top/Ahmed-Hamdy101/Mikasa-discord"> </a><a href="https://img.shields.io/github/repo-size/Ahmed-Hamdy101/Mikasa-discord"> <img src="https://img.shields.io/github/repo-size/Ahmed-Hamdy101/Mikasa-discord"> </a><a href="https://img.shields.io/github/stars/Ahmed-Hamdy101/Mikasa-discord?style=social"> <img src="https://img.shields.io/github/stars/Ahmed-Hamdy101/Mikasa-discord?style=social"> </a><a href="https://img.shields.io/github/watchers/Ahmed-Hamdy101/Mikasa-discord?style=social"> <img src="https://img.shields.io/github/watchers/Ahmed-Hamdy101/Mikasa-discord?style=social"> </a><a href="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTorn40535516"> <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTorn40535516"> 
+</a><a href="https://img.shields.io/discord/920834561255018557"> <img src="https://img.shields.io/discord/920834561255018557"> 
+</a>
 </div>
 
-## how to install :
- - >  npm install
+## installations :
+ - Require Discord V14 Less than that will not working
+   - ```shell
+      npm install  
+      ```  
 
- - > touch .env
+   -  ```shell
+       touch .env
+        ```
 
  - inside the file `.env` ADD THIS
-   - ```TOKEN = 'My TOKEN'
-        CLIENT_ID = 'My CLIENT_ID'
-     ```
+   -  ```javascript 
+          CLIENT_ID = 'My CLIENT_ID'
+          TOKEN = 'My TOKEN'
+        ```
+            
 :warning: if you don't know what's the CLIENT_ID
   - go to server setting
   - copy server id and that's it
